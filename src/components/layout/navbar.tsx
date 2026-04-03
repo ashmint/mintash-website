@@ -51,7 +51,9 @@ export function Navbar() {
             <div className="font-display text-sm font-semibold tracking-tight text-white sm:text-base">
               Mintash Technologies
             </div>
-            <div className="text-xs text-slate-400">Official Partner of Miphi</div>
+            <div className="text-xs text-slate-400">
+              Official Partner of MiPhi Semiconductors
+            </div>
           </div>
         </a>
 

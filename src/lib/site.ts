@@ -5,7 +5,7 @@ export const siteConfig = {
   description:
     "Mintash Technologies is an official Miphi partner delivering affordable AI infrastructure, on-premise AI solutions, AI server solutions, and AI lab infrastructure for enterprises, institutions, and innovators.",
   url: "https://www.mintashtechnologies.com",
-  partner: "Official Partner of Miphi",
+  partner: "Official Partner of MiPhi Semiconductors",
   tagline: "Affordable AI. Scalable Innovation.",
   keywords: [
     "Affordable AI infrastructure",
