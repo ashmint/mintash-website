@@ -1,14 +1,9 @@
-import {
-  Building2,
-  DraftingCompass,
-  FlaskConical,
-  GraduationCap,
-} from "lucide-react";
+import { Building2, FlaskConical, GraduationCap } from "lucide-react";
 import { useCases } from "@/lib/site";
 import { Reveal } from "@/components/ui/reveal";
 import { SectionIntro } from "@/components/ui/section-intro";
 
-const icons = [Building2, GraduationCap, DraftingCompass, FlaskConical];
+const icons = [Building2, GraduationCap, FlaskConical];
 
 export function UseCasesSection() {
   return (
@@ -18,12 +13,12 @@ export function UseCasesSection() {
         <SectionIntro
           eyebrow="Use Cases"
           title="AI Solutions Across Industries"
-          description="Private AI infrastructure that adapts to enterprise teams, educational labs, design workflows, and high-performance R&D environments."
+          description="Private AI infrastructure that adapts to enterprise teams, educational labs, and high-performance R&D environments."
           align="center"
           className="mx-auto max-w-3xl"
         />
 
-        <div className="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-4">
+        <div className="mx-auto mt-10 grid max-w-5xl gap-5 md:grid-cols-2 lg:grid-cols-3">
           {useCases.map((item, index) => {
             const Icon = icons[index];
 
