@@ -1,5 +1,6 @@
-import { BrainCircuit, MemoryStick } from "lucide-react";
+import { ArrowRight, BrainCircuit, MemoryStick } from "lucide-react";
 import Image from "next/image";
+import { ButtonLink } from "@/components/ui/button-link";
 import { aidaptivImage, memoryImage } from "@/lib/assets";
 import { ecosystem } from "@/lib/site";
 import { Reveal } from "@/components/ui/reveal";
@@ -58,6 +59,14 @@ export function EcosystemSection() {
                           </div>
                         ))}
                       </div>
+                      {index === 1 ? (
+                        <div className="mt-7">
+                          <ButtonLink href="/enterprise-memory" variant="secondary">
+                            Explore Memory Portfolio
+                            <ArrowRight className="h-4 w-4" />
+                          </ButtonLink>
+                        </div>
+                      ) : null}
                     </div>
 
                     <div className={cn("relative", isReversed && "lg:order-1")}>

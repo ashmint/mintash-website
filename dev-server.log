@@ -1,1 +1,393 @@
-The system cannot find the file \mintash-dev\.
+
+> mintash-website@0.1.0 dev
+> next dev --port 3000
+
+▲ Next.js 16.2.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.6:3000
+✓ Ready in 459ms
+
+ GET / 200 in 922ms (next.js: 250ms, application-code: 672ms)
+ GET / 200 in 919ms (next.js: 143ms, application-code: 776ms)
+ GET /icon?c0d94c4dc96093fb 200 in 207ms (next.js: 54ms, application-code: 153ms)
+ GET /icon?c0d94c4dc96093fb 200 in 14ms (next.js: 3ms, application-code: 11ms)
+ GET / 200 in 163ms (next.js: 6ms, application-code: 157ms)
+ GET /icon?c0d94c4dc96093fb 200 in 19ms (next.js: 4ms, application-code: 15ms)
+ GET /?refresh=1782370683577 200 in 162ms (next.js: 5ms, application-code: 157ms)
+ GET /?refresh=1782370683577 200 in 191ms (next.js: 48ms, application-code: 143ms)
+ GET / 200 in 82ms (next.js: 5ms, application-code: 77ms)
+ GET /?refresh=1782370910784 200 in 182ms (next.js: 5ms, application-code: 177ms)
+ GET / 200 in 156ms (next.js: 5ms, application-code: 150ms)
+ GET /icon?c0d94c4dc96093fb 200 in 28ms (next.js: 3ms, application-code: 24ms)
+ GET /?refresh=1782370910784 200 in 208ms (next.js: 60ms, application-code: 148ms)
+ GET / 200 in 85ms (next.js: 4ms, application-code: 81ms)
+ GET /?colorflow=1782371149970 200 in 208ms (next.js: 4ms, application-code: 204ms)
+ GET / 200 in 132ms (next.js: 4ms, application-code: 128ms)
+ GET / 200 in 698ms (next.js: 49ms, application-code: 649ms)
+ GET / 200 in 698ms (next.js: 125ms, application-code: 573ms)
+ GET / 200 in 522ms (next.js: 6ms, application-code: 516ms)
+ GET / 200 in 522ms (next.js: 56ms, application-code: 466ms)
+ GET / 200 in 401ms (next.js: 7ms, application-code: 394ms)
+ GET / 200 in 401ms (next.js: 59ms, application-code: 342ms)
+ GET / 200 in 400ms (next.js: 107ms, application-code: 293ms)
+ GET / 200 in 399ms (next.js: 222ms, application-code: 177ms)
+ GET / 200 in 400ms (next.js: 165ms, application-code: 235ms)
+ GET / 200 in 400ms (next.js: 285ms, application-code: 115ms)
+ GET / 200 in 421ms (next.js: 48ms, application-code: 373ms)
+ GET / 200 in 308ms (next.js: 4ms, application-code: 304ms)
+ GET / 200 in 224ms (next.js: 6ms, application-code: 218ms)
+ GET / 200 in 168ms (next.js: 4ms, application-code: 165ms)
+ GET / 200 in 122ms (next.js: 4ms, application-code: 118ms)
+ GET / 200 in 69ms (next.js: 4ms, application-code: 65ms)
+ GET /enterprise-memory 404 in 312ms (next.js: 252ms, application-code: 60ms)
+ GET /enterprise-memory 404 in 34ms (next.js: 6ms, application-code: 28ms)
+ GET /icon?c0d94c4dc96093fb 200 in 53ms (next.js: 29ms, application-code: 23ms)
+ GET / 200 in 512ms (next.js: 4ms, application-code: 509ms)
+ GET /icon?c0d94c4dc96093fb 200 in 13ms (next.js: 3ms, application-code: 10ms)
+ GET /enterprise-memory 404 in 43ms (next.js: 5ms, application-code: 38ms)
+ GET / 200 in 137ms (next.js: 3ms, application-code: 133ms)
+ GET /icon?c0d94c4dc96093fb 200 in 14ms (next.js: 2ms, application-code: 12ms)
+ GET /enterprise-memory 404 in 34ms (next.js: 5ms, application-code: 29ms)
+ GET / 200 in 152ms (next.js: 5ms, application-code: 147ms)
+ GET /icon?c0d94c4dc96093fb 200 in 17ms (next.js: 3ms, application-code: 14ms)
+ GET /enterprise-memory 404 in 35ms (next.js: 7ms, application-code: 29ms)
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+✓ Compiled in 71ms
+ GET / 200 in 473ms (next.js: 100ms, application-code: 372ms)
+ GET /icon?c0d94c4dc96093fb 200 in 68ms (next.js: 39ms, application-code: 29ms)
+ GET /enterprise-memory 200 in 1070ms (next.js: 775ms, application-code: 296ms)
+ GET /enterprise-memory 200 in 136ms (next.js: 5ms, application-code: 131ms)
+✓ Compiled in 192ms
+ GET /enterprise-memory 200 in 571ms (next.js: 130ms, application-code: 441ms)
+ GET /enterprise-memory 200 in 350ms (next.js: 59ms, application-code: 291ms)
+ GET /enterprise-memory 200 in 275ms (next.js: 7ms, application-code: 268ms)
+ GET /enterprise-memory 200 in 326ms (next.js: 84ms, application-code: 242ms)
+ GET /enterprise-memory 200 in 326ms (next.js: 139ms, application-code: 187ms)
+ GET /enterprise-memory 200 in 191ms (next.js: 6ms, application-code: 185ms)
+ GET /enterprise-memory 200 in 129ms (next.js: 5ms, application-code: 124ms)
+ GET /enterprise-memory 200 in 75ms (next.js: 4ms, application-code: 71ms)
+ GET /enterprise-memory?check=1782371911285 200 in 207ms (next.js: 4ms, application-code: 203ms)
+ GET /?homecheck=1782371927559 200 in 282ms (next.js: 71ms, application-code: 211ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 128ms (next.js: 4ms, application-code: 124ms)
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+ GET / 200 in 144ms (next.js: 4ms, application-code: 140ms)
+ GET /icon?c0d94c4dc96093fb 200 in 56ms (next.js: 33ms, application-code: 23ms)
+ GET /enterprise-memory 200 in 148ms (next.js: 4ms, application-code: 144ms)
+ GET / 200 in 146ms (next.js: 5ms, application-code: 142ms)
+ GET /enterprise-memory 200 in 128ms (next.js: 4ms, application-code: 125ms)
+ GET /icon?c0d94c4dc96093fb 200 in 12ms (next.js: 2ms, application-code: 10ms)
+✓ Compiled in 154ms
+ GET /enterprise-memory?visual=1782371939823 200 in 933ms (next.js: 66ms, application-code: 867ms)
+ GET /enterprise-memory 200 in 934ms (next.js: 132ms, application-code: 803ms)
+ GET /enterprise-memory 200 in 576ms (next.js: 121ms, application-code: 455ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 577ms (next.js: 56ms, application-code: 522ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 467ms (next.js: 7ms, application-code: 460ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 513ms (next.js: 59ms, application-code: 454ms)
+ GET / 200 in 1267ms (next.js: 277ms, application-code: 990ms)
+ GET / 200 in 784ms (next.js: 13ms, application-code: 772ms)
+ GET / 200 in 673ms (next.js: 150ms, application-code: 523ms)
+ GET / 200 in 674ms (next.js: 100ms, application-code: 574ms)
+ GET / 200 in 675ms (next.js: 53ms, application-code: 622ms)
+ GET / 200 in 628ms (next.js: 159ms, application-code: 469ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 591ms (next.js: 60ms, application-code: 531ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 593ms (next.js: 6ms, application-code: 587ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 476ms (next.js: 6ms, application-code: 471ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 574ms (next.js: 54ms, application-code: 521ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 485ms (next.js: 4ms, application-code: 481ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 485ms (next.js: 61ms, application-code: 424ms)
+ GET / 200 in 594ms (next.js: 5ms, application-code: 589ms)
+ GET / 200 in 545ms (next.js: 6ms, application-code: 538ms)
+ GET / 200 in 488ms (next.js: 6ms, application-code: 482ms)
+ GET / 200 in 488ms (next.js: 85ms, application-code: 403ms)
+ GET /enterprise-memory 200 in 346ms (next.js: 52ms, application-code: 293ms)
+ GET /enterprise-memory 200 in 347ms (next.js: 4ms, application-code: 343ms)
+ GET /enterprise-memory 200 in 238ms (next.js: 6ms, application-code: 233ms)
+ GET /enterprise-memory 200 in 239ms (next.js: 53ms, application-code: 186ms)
+ GET /enterprise-memory 200 in 292ms (next.js: 5ms, application-code: 288ms)
+ GET /enterprise-memory 200 in 292ms (next.js: 51ms, application-code: 241ms)
+ GET /enterprise-memory 200 in 322ms (next.js: 5ms, application-code: 316ms)
+ GET /enterprise-memory 200 in 321ms (next.js: 53ms, application-code: 268ms)
+ GET /enterprise-memory 200 in 220ms (next.js: 55ms, application-code: 165ms)
+ GET /enterprise-memory 200 in 223ms (next.js: 5ms, application-code: 217ms)
+ GET /enterprise-memory 200 in 221ms (next.js: 4ms, application-code: 216ms)
+ GET /enterprise-memory 200 in 313ms (next.js: 44ms, application-code: 269ms)
+ GET /enterprise-memory 200 in 333ms (next.js: 5ms, application-code: 329ms)
+ GET /enterprise-memory 200 in 333ms (next.js: 57ms, application-code: 277ms)
+ GET /enterprise-memory 200 in 221ms (next.js: 50ms, application-code: 171ms)
+ GET /enterprise-memory 200 in 222ms (next.js: 5ms, application-code: 218ms)
+ GET /enterprise-memory 200 in 126ms (next.js: 5ms, application-code: 122ms)
+ GET /enterprise-memory 200 in 127ms (next.js: 49ms, application-code: 77ms)
+⨯ ReferenceError: ProductImageStage is not defined
+    at <unknown> (src\app\enterprise-memory\page.tsx:113:24)
+    at Array.map (<anonymous>)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:107:43)
+  111 |                       className="group overflow-hidden rounded-[1.4rem] border border-whi...
+  112 |                     >
+> 113 |                       <ProductImageStage series={series} compact />
+      |                        ^
+  114 |                       <div className="mt-4 text-xs uppercase tracking-[0.22em] text-cyan-...
+  115 |                         {series.eyebrow}
+  116 |                       </div> {
+  digest: '2570192644'
+}
+⨯ ReferenceError: ProductImageStage is not defined
+    at <unknown> (src\app\enterprise-memory\page.tsx:113:24)
+    at Array.map (<anonymous>)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:107:43)
+  111 |                       className="group overflow-hidden rounded-[1.4rem] border border-whi...
+  112 |                     >
+> 113 |                       <ProductImageStage series={series} compact />
+      |                        ^
+  114 |                       <div className="mt-4 text-xs uppercase tracking-[0.22em] text-cyan-...
+  115 |                         {series.eyebrow}
+  116 |                       </div> {
+  digest: '2570192644'
+}
+⨯ ReferenceError: ProductImageStage is not defined
+    at <unknown> (src\app\enterprise-memory\page.tsx:113:24)
+    at Array.map (<anonymous>)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:107:43)
+  111 |                       className="group overflow-hidden rounded-[1.4rem] border border-whi...
+  112 |                     >
+> 113 |                       <ProductImageStage series={series} compact />
+      |                        ^
+  114 |                       <div className="mt-4 text-xs uppercase tracking-[0.22em] text-cyan-...
+  115 |                         {series.eyebrow}
+  116 |                       </div> {
+  digest: '2570192644'
+}
+ GET /enterprise-memory?visual=1782371939823 200 in 209ms (next.js: 108ms, application-code: 101ms)
+ GET /enterprise-memory 200 in 211ms (next.js: 65ms, application-code: 145ms)
+ GET /enterprise-memory 200 in 33ms (next.js: 4ms, application-code: 29ms)
+ GET / 200 in 219ms (next.js: 131ms, application-code: 88ms)
+[browser] Uncaught ReferenceError: ProductImageStage is not defined
+    at <anonymous> (src\app\enterprise-memory\page.tsx:113:24)
+    at Array.map (<anonymous>:1:18)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:107:43)
+  111 |                       className="group overflow-hidden rounded-[1.4rem] border border-whi...
+  112 |                     >
+> 113 |                       <ProductImageStage series={series} compact />
+      |                        ^
+  114 |                       <div className="mt-4 text-xs uppercase tracking-[0.22em] text-cyan-...
+  115 |                         {series.eyebrow}
+  116 |                       </div>
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /enterprise-memory 200 in 794ms (next.js: 70ms, application-code: 725ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 792ms (next.js: 432ms, application-code: 360ms)
+ GET /enterprise-memory 200 in 240ms (next.js: 6ms, application-code: 234ms)
+ GET / 200 in 799ms (next.js: 138ms, application-code: 661ms)
+ GET /icon?c0d94c4dc96093fb 200 in 51ms (next.js: 32ms, application-code: 19ms)
+[browser] Image with src "/_next/static/media/enterprise-x-series-cutout.0pzxkp13t~bdf.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-d-series-cutout.067gpayd6niyr.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-s-series-cutout.0wt6m72icbeq6.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-b-series-cutout.0en.c746ugng_.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+ GET /icon?c0d94c4dc96093fb 200 in 13ms (next.js: 2ms, application-code: 10ms)
+ GET /icon?c0d94c4dc96093fb 200 in 12ms (next.js: 2ms, application-code: 10ms)
+ GET /enterprise-memory 200 in 139ms (next.js: 4ms, application-code: 135ms)
+ GET /icon?c0d94c4dc96093fb 200 in 17ms (next.js: 3ms, application-code: 14ms)
+ GET /enterprise-memory 200 in 138ms (next.js: 4ms, application-code: 134ms)
+ GET /icon?c0d94c4dc96093fb 200 in 14ms (next.js: 3ms, application-code: 11ms)
+[browser] Image with src "/_next/static/media/enterprise-x-series-cutout.0pzxkp13t~bdf.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-d-series-cutout.067gpayd6niyr.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-s-series-cutout.0wt6m72icbeq6.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-b-series-cutout.0en.c746ugng_.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+⨯ ReferenceError: ProductComparisonRows is not defined
+    at <unknown> (src\app\enterprise-memory\page.tsx:256:26)
+    at Array.map (<anonymous>)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:166:39)
+  254 |                           ))}
+  255 |                         </div>
+> 256 |                         <ProductComparisonRows products={series.products} />
+      |                          ^
+  257 |                       </div>
+  258 |                     </div>
+  259 |                   </article> {
+  digest: '2976269577'
+}
+⨯ ReferenceError: ProductComparisonRows is not defined
+    at <unknown> (src\app\enterprise-memory\page.tsx:256:26)
+    at Array.map (<anonymous>)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:166:39)
+  254 |                           ))}
+  255 |                         </div>
+> 256 |                         <ProductComparisonRows products={series.products} />
+      |                          ^
+  257 |                       </div>
+  258 |                     </div>
+  259 |                   </article> {
+  digest: '2976269577'
+}
+⨯ ReferenceError: ProductComparisonRows is not defined
+    at <unknown> (src\app\enterprise-memory\page.tsx:256:26)
+    at Array.map (<anonymous>)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:166:39)
+  254 |                           ))}
+  255 |                         </div>
+> 256 |                         <ProductComparisonRows products={series.products} />
+      |                          ^
+  257 |                       </div>
+  258 |                     </div>
+  259 |                   </article> {
+  digest: '2976269577'
+}
+ GET /enterprise-memory 200 in 262ms (next.js: 69ms, application-code: 193ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 261ms (next.js: 164ms, application-code: 97ms)
+ GET /enterprise-memory 200 in 71ms (next.js: 5ms, application-code: 65ms)
+ GET / 200 in 271ms (next.js: 112ms, application-code: 160ms)
+[browser] Uncaught ReferenceError: ProductComparisonRows is not defined
+    at <anonymous> (src\app\enterprise-memory\page.tsx:256:26)
+    at Array.map (<anonymous>:1:18)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:166:39)
+  254 |                           ))}
+  255 |                         </div>
+> 256 |                         <ProductComparisonRows products={series.products} />
+      |                          ^
+  257 |                       </div>
+  258 |                     </div>
+  259 |                   </article>
+⨯ ReferenceError: ProductComparisonRows is not defined
+    at <unknown> (src\app\enterprise-memory\page.tsx:256:26)
+    at Array.map (<anonymous>)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:166:39)
+  254 |                           ))}
+  255 |                         </div>
+> 256 |                         <ProductComparisonRows products={series.products} />
+      |                          ^
+  257 |                       </div>
+  258 |                     </div>
+  259 |                   </article> {
+  digest: '2976269577'
+}
+ GET /enterprise-memory? 500 in 77ms (next.js: 4ms, application-code: 73ms)
+[browser] Uncaught ReferenceError: ProductComparisonRows is not defined
+    at <anonymous> (src\app\enterprise-memory\page.tsx:256:26)
+    at Array.map (<anonymous>:1:18)
+    at EnterpriseMemoryPage (src\app\enterprise-memory\page.tsx:166:39)
+  254 |                           ))}
+  255 |                         </div>
+> 256 |                         <ProductComparisonRows products={series.products} />
+      |                          ^
+  257 |                       </div>
+  258 |                     </div>
+  259 |                   </article>
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 853ms (next.js: 4ms, application-code: 849ms)
+ GET /enterprise-memory 200 in 874ms (next.js: 129ms, application-code: 744ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 877ms (next.js: 219ms, application-code: 658ms)
+ GET /enterprise-memory 200 in 312ms (next.js: 6ms, application-code: 306ms)
+ GET /icon?c0d94c4dc96093fb 200 in 15ms (next.js: 3ms, application-code: 12ms)
+ GET /icon?c0d94c4dc96093fb 200 in 13ms (next.js: 2ms, application-code: 11ms)
+ GET /icon?c0d94c4dc96093fb 200 in 14ms (next.js: 3ms, application-code: 11ms)
+[browser] Image with src "/_next/static/media/enterprise-x-series-cutout.0pzxkp13t~bdf.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-d-series-cutout.067gpayd6niyr.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-s-series-cutout.0wt6m72icbeq6.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+ GET /enterprise-memory 200 in 185ms (next.js: 4ms, application-code: 181ms)
+ GET /icon?c0d94c4dc96093fb 200 in 13ms (next.js: 2ms, application-code: 10ms)
+[browser] Image with src "/_next/static/media/enterprise-x-series-cutout.0pzxkp13t~bdf.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-d-series-cutout.067gpayd6niyr.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-s-series-cutout.0wt6m72icbeq6.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-b-series-cutout.0en.c746ugng_.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-d-series-cutout.067gpayd6niyr.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-s-series-cutout.0wt6m72icbeq6.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-b-series-cutout.0en.c746ugng_.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+ GET / 200 in 604ms (next.js: 7ms, application-code: 597ms)
+ GET /icon?c0d94c4dc96093fb 200 in 14ms (next.js: 4ms, application-code: 11ms)
+ GET /enterprise-memory 200 in 239ms (next.js: 5ms, application-code: 233ms)
+[browser] Image with src "/_next/static/media/enterprise-x-series-cutout.0pzxkp13t~bdf.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-d-series-cutout.067gpayd6niyr.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-s-series-cutout.0wt6m72icbeq6.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-b-series-cutout.0en.c746ugng_.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+ GET /enterprise-memory?visual=1782371939823 200 in 187ms (next.js: 5ms, application-code: 182ms)
+ GET / 200 in 134ms (next.js: 4ms, application-code: 130ms)
+[browser] Image with src "/_next/static/media/aidaptiv.1263h9g1-qfup.webp" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET / 200 in 533ms (next.js: 259ms, application-code: 274ms)
+ GET /enterprise-memory 200 in 536ms (next.js: 92ms, application-code: 444ms)
+ GET /enterprise-memory?visual=1782371939823 200 in 536ms (next.js: 183ms, application-code: 353ms)
+ GET /enterprise-memory 200 in 536ms (next.js: 310ms, application-code: 226ms)
+ GET /enterprise-memory 200 in 146ms (next.js: 5ms, application-code: 141ms)
+ GET / 200 in 128ms (next.js: 4ms, application-code: 124ms)
+⚠ Blocked cross-origin request to Next.js dev resource /_next/webpack-hmr from "192.168.1.6".
+Cross-origin access to Next.js dev resources is blocked by default for safety.
+
+To allow this host in development, add it to "allowedDevOrigins" in next.config.js and restart the dev server:
+
+// next.config.js
+module.exports = {
+  allowedDevOrigins: ['192.168.1.6'],
+}
+
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET /icon?c0d94c4dc96093fb 200 in 11ms (next.js: 3ms, application-code: 9ms)
+ GET / 200 in 130ms (next.js: 3ms, application-code: 127ms)
+ GET /icon?c0d94c4dc96093fb 200 in 10ms (next.js: 3ms, application-code: 7ms)
+ GET / 200 in 133ms (next.js: 4ms, application-code: 129ms)
+ GET /icon?c0d94c4dc96093fb 200 in 11ms (next.js: 2ms, application-code: 9ms)
+ GET / 200 in 118ms (next.js: 3ms, application-code: 115ms)
+ GET /icon?c0d94c4dc96093fb 200 in 10ms (next.js: 3ms, application-code: 7ms)
+ GET / 200 in 118ms (next.js: 3ms, application-code: 115ms)
+ GET /icon?c0d94c4dc96093fb 200 in 10ms (next.js: 2ms, application-code: 8ms)
+ GET / 200 in 130ms (next.js: 4ms, application-code: 127ms)
+ GET /icon?c0d94c4dc96093fb 200 in 11ms (next.js: 3ms, application-code: 8ms)
+[browser] Image with src "/_next/static/media/aidaptiv.1263h9g1-qfup.webp" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+ GET /enterprise-memory 200 in 258ms (next.js: 4ms, application-code: 254ms)
+ GET /icon?c0d94c4dc96093fb 200 in 12ms (next.js: 3ms, application-code: 9ms)
+[browser] Image with src "/_next/static/media/enterprise-d-series-cutout.067gpayd6niyr.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-s-series-cutout.0wt6m72icbeq6.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-b-series-cutout.0en.c746ugng_.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/enterprise-x-series-cutout.0pzxkp13t~bdf.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+ GET / 200 in 53ms (next.js: 4ms, application-code: 49ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET / 200 in 155ms (next.js: 4ms, application-code: 150ms)
+ GET /icon?c0d94c4dc96093fb 200 in 11ms (next.js: 3ms, application-code: 9ms)
+ GET / 200 in 131ms (next.js: 4ms, application-code: 128ms)
+ GET /icon?c0d94c4dc96093fb 200 in 10ms (next.js: 3ms, application-code: 7ms)
+ GET / 200 in 123ms (next.js: 4ms, application-code: 119ms)
+ GET /icon?c0d94c4dc96093fb 200 in 11ms (next.js: 3ms, application-code: 8ms)
+ GET / 200 in 121ms (next.js: 4ms, application-code: 118ms)
+ GET /icon?c0d94c4dc96093fb 200 in 11ms (next.js: 3ms, application-code: 9ms)
+ GET / 200 in 124ms (next.js: 3ms, application-code: 121ms)
+ GET /icon?c0d94c4dc96093fb 200 in 10ms (next.js: 3ms, application-code: 8ms)

@@ -71,7 +71,14 @@ export default function RootLayout({
       lang="en"
       className={`${inter.variable} ${spaceGrotesk.variable} h-full antialiased`}
     >
-      <body className="min-h-full overflow-x-hidden bg-background text-foreground">
+      <body
+        className="min-h-full overflow-x-hidden bg-background text-foreground"
+        style={{
+          backgroundColor: "#03050d",
+          backgroundImage:
+            "radial-gradient(circle at 80% 10%, rgba(14, 165, 233, 0.12), transparent 28%), radial-gradient(circle at 12% 14%, rgba(59, 130, 246, 0.1), transparent 30%), linear-gradient(180deg, #03050d 0%, #03050d 24%, #050918 48%, #030712 72%, #02040a 100%)",
+        }}
+      >
         {children}
       </body>
     </html>

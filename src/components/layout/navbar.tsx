@@ -3,6 +3,7 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import { ButtonLink } from "@/components/ui/button-link";
 import { mintashLogo } from "@/lib/assets";
@@ -27,16 +28,16 @@ export function Navbar() {
   }, []);
 
   return (
-    <header className="sticky top-0 z-50 px-4 pt-4">
+    <header className="sticky top-0 z-50 px-4 pb-2 pt-4 [background:linear-gradient(180deg,rgba(3,5,13,0.72)_0%,rgba(3,5,13,0.28)_62%,transparent_100%)]">
       <div
         className={cn(
           "mx-auto flex max-w-[1200px] items-center justify-between rounded-full border px-4 py-3 transition-all duration-300 sm:px-5",
           isScrolled
-            ? "border-white/12 bg-slate-950/78 shadow-[0_24px_80px_rgba(2,6,23,0.45)] backdrop-blur-2xl"
-            : "border-white/10 bg-slate-950/45 backdrop-blur-xl",
+            ? "border-cyan-100/14 bg-slate-950/66 shadow-[0_24px_80px_rgba(2,6,23,0.45)] backdrop-blur-2xl"
+            : "border-cyan-100/10 bg-slate-950/24 shadow-[inset_0_1px_0_rgba(255,255,255,0.04)] backdrop-blur-2xl",
         )}
       >
-        <a href="#home" className="flex items-center gap-3">
+        <Link href="/#home" className="flex items-center gap-3">
           <div className="flex h-11 w-11 items-center justify-center overflow-hidden rounded-2xl">
             <Image
               src={mintashLogo}
@@ -44,7 +45,6 @@ export function Navbar() {
               width={44}
               height={44}
               className="h-full w-full object-contain"
-              priority
             />
           </div>
           <div className="leading-tight">
@@ -55,7 +55,7 @@ export function Navbar() {
               Official Partner of MiPhi Semiconductors
             </div>
           </div>
-        </a>
+        </Link>
 
         <nav className="hidden items-center gap-8 lg:flex">
           {siteConfig.navLinks.map((link) => (
@@ -70,7 +70,7 @@ export function Navbar() {
         </nav>
 
         <div className="hidden lg:block">
-          <ButtonLink href="#contact-form" variant="secondary">
+          <ButtonLink href="/#contact-form" variant="secondary">
             Get in Touch
           </ButtonLink>
         </div>
@@ -109,7 +109,7 @@ export function Navbar() {
                 ))}
               </nav>
               <div className="mt-4">
-                <ButtonLink href="#contact-form" variant="primary" className="w-full">
+                <ButtonLink href="/#contact-form" variant="primary" className="w-full">
                   Get in Touch
                 </ButtonLink>
               </div>

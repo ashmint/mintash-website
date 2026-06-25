@@ -15,9 +15,9 @@ export function HeroSection() {
   return (
     <section
       id="home"
-      className="scroll-mt-28 px-6 pb-16 pt-14 sm:px-8 lg:flex lg:min-h-[calc(100svh-5.5rem)] lg:items-center lg:px-10 lg:pb-8 lg:pt-5"
+      className="relative scroll-mt-28 px-6 pb-18 pt-14 sm:px-8 lg:flex lg:min-h-[calc(100svh-5.5rem)] lg:items-center lg:px-10 lg:pb-10 lg:pt-5"
     >
-      <div className="mx-auto w-full max-w-[1200px]">
+      <div className="relative z-10 mx-auto w-full max-w-[1200px]">
         {/* Hero section */}
         <div className="grid gap-12 lg:grid-cols-[minmax(0,1.06fr)_minmax(440px,0.94fr)] lg:items-start lg:gap-12">
           <div className="max-w-3xl">
@@ -56,11 +56,11 @@ export function HeroSection() {
             </Reveal>
 
             <Reveal delay={0.22} className="mt-8 flex flex-col gap-3 sm:flex-row lg:mt-6">
-              <ButtonLink href="#solutions" variant="primary">
+              <ButtonLink href="/#solutions" variant="primary">
                 Explore Solutions
                 <ArrowRight className="h-4 w-4" />
               </ButtonLink>
-              <ButtonLink href="#contact" variant="secondary">
+              <ButtonLink href="/#contact" variant="secondary">
                 Talk to an Expert
               </ButtonLink>
             </Reveal>

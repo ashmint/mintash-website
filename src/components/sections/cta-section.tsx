@@ -30,7 +30,7 @@ export function CtaSection() {
                 the foundation you need.
               </p>
               <div className="flex flex-col gap-3 sm:flex-row">
-                <ButtonLink href="#contact-form" variant="primary">
+                <ButtonLink href="/#contact-form" variant="primary">
                   Get in Touch
                 </ButtonLink>
               </div>
