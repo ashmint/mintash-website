@@ -102,15 +102,17 @@ function LandingAtmosphere() {
       aria-hidden="true"
       className="pointer-events-none absolute inset-x-0 top-0 z-0 h-[1180px] overflow-hidden"
     >
-      <Image
-        src={datacenterHeroImage}
-        alt=""
-        fill
-        preload
-        placeholder="blur"
-        sizes="100vw"
-        className="object-cover object-[68%_top] opacity-[0.42] [filter:saturate(1.08)_contrast(1.04)] sm:opacity-[0.5] lg:opacity-[0.58]"
-      />
+      <div className="absolute inset-x-0 top-0 h-[380px] sm:inset-0 sm:h-auto">
+        <Image
+          src={datacenterHeroImage}
+          alt=""
+          fill
+          preload
+          placeholder="blur"
+          sizes="100vw"
+          className="object-cover object-[50%_top] opacity-[0.56] [filter:saturate(1.08)_contrast(1.04)] sm:object-[68%_top] sm:opacity-[0.5] lg:opacity-[0.58]"
+        />
+      </div>
       <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(3,5,13,0.99)_0%,rgba(3,5,13,0.92)_32%,rgba(3,5,13,0.68)_62%,rgba(3,5,13,0.38)_100%)]" />
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_76%_24%,rgba(34,211,238,0.14),transparent_34%),radial-gradient(circle_at_18%_48%,rgba(37,99,235,0.12),transparent_34%)]" />
       <div className="absolute inset-x-0 bottom-0 h-[560px] bg-[linear-gradient(180deg,rgba(3,5,13,0)_0%,rgba(3,5,13,0.54)_36%,#03050d_76%,#03050d_100%)]" />
