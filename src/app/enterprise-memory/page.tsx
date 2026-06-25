@@ -101,7 +101,7 @@ export default function EnterpriseMemoryPage() {
               </Reveal>
             </div>
 
-            <Reveal delay={0.16}>
+            <Reveal delay={0.16} amount={0.08}>
               <div className="glass-panel relative overflow-hidden rounded-[2rem] p-5 sm:p-6">
                 <div className="absolute inset-0 bg-[radial-gradient(circle_at_72%_18%,rgba(34,211,238,0.14),transparent_30%),radial-gradient(circle_at_12%_70%,rgba(99,102,241,0.14),transparent_34%)]" />
                 <div className="relative grid gap-3 sm:grid-cols-2">
@@ -164,7 +164,7 @@ export default function EnterpriseMemoryPage() {
 
             <div className="mt-12 space-y-8">
               {enterpriseMemorySeries.map((series, index) => (
-                <Reveal key={series.slug} delay={0.08 * index}>
+                <Reveal key={series.slug} delay={0.08 * index} amount={0.05}>
                   <article
                     id={series.slug}
                     className="glass-panel scroll-mt-32 overflow-hidden rounded-[2rem]"

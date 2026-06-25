@@ -391,3 +391,7 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
  GET /icon?c0d94c4dc96093fb 200 in 11ms (next.js: 3ms, application-code: 9ms)
  GET / 200 in 124ms (next.js: 3ms, application-code: 121ms)
  GET /icon?c0d94c4dc96093fb 200 in 10ms (next.js: 3ms, application-code: 8ms)
+ GET / 200 in 258ms (next.js: 24ms, application-code: 234ms)
+ GET /icon?c0d94c4dc96093fb 200 in 23ms (next.js: 4ms, application-code: 19ms)
+ GET /enterprise-memory 200 in 302ms (next.js: 8ms, application-code: 293ms)
+[browser] Image with src "/_next/static/media/enterprise-x-series-cutout.0pzxkp13t~bdf.webp" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
